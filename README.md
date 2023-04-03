@@ -1,2 +1,2 @@
-# curso-especialista-spring-rest-master
+# algafood-api
 Spring Rest
